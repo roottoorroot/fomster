@@ -1,0 +1,5 @@
+www.fomster.ru
+Хостинг до 05.10.2016
+admink'a WP:
+ log: admin
+pass: тюленьебетоблако14082014
